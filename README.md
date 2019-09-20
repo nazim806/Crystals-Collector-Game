@@ -10,7 +10,7 @@ This is a front-end application the uses HTML5, CSS, JavaScript and jQuery. This
 The page was built using Bootstrap for responsiveness. This application contains alerts and the logic has timeouts to allow the final scores to render before the alert executes.
 
 
-**How to Play**
+**How to Play:**
 
 
 You will be given a random number at the start of the game. 
