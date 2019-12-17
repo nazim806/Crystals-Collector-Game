@@ -26,3 +26,13 @@ Match your points to the random number to win.
 
 
 If you go over, you lose!
+
+**Technology used**
+
+HTML5
+
+CSS3
+
+Javascript
+
+JQuery
